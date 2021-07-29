@@ -29,4 +29,8 @@ Commands git
         git remote add origin https://github.com/NikoHuerta/todo-list.git
         git branch -M main
         git push -u origin main
+5-> Siguientes commit:
+        git add .
+        git commit -m "XXX commit"
+        git push -u origin main 
 ```
